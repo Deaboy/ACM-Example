@@ -6,7 +6,7 @@ int main()
   cout << "Hello, World!" << endl;
   int x;
   cin >> x;
-  cout << "You entered " << x << "!" << endl;
+  cout << x << " is the magic number!" << endl;
   return 0;
 }
 
